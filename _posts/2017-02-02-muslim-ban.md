@@ -4,7 +4,7 @@ title: "Muslim Ban"
 date: 2017-02-02
 ---
 
-FIGHT THE EXECUTIVE ORDER ON IMMIGRATION ("MUSLIM BAN")
+Fight the Executive Order on Immigration ("Muslim Ban")
 =======================================================
 
 What's happening? 
@@ -22,13 +22,13 @@ implementation of the order possible.
 
 What can you do?
 ----------------
-[Call](#call) and [write](#write) your Representatives, particularly Republicans (as Democrats are already united
+[Call](#call) and [write](2017-02-02-muslim-ban.doc) your Representatives, particularly Republicans (as Democrats are already united
 against the ban), highlighting the many arguments that counter this order. 
 
 
 Call
 ====
-> My name is ____ and I'm a constituent in the 23rd District of New York (zip code XXXXX). I'm calling to let Congressman Reed know that I am in strong opposition to the recent ban on immigration issued by President Trump's Executive Order last Friday. This ban runs counter to all evidence, given that no refugees from any of the targeted countries have ever killed Americans on U.S. soil. It is also a moral outrage, and violates not only our constitution but our values as a nation of immigrants. I urge the congressman to stand up against President Trump and his Republican colleagues and insist that this ban be repealed.
+> My name is ____ and I'm a constituent in the ___ District of ____ (zip code _____). I'm calling to let Congressman Reed know that I am in strong opposition to the recent ban on immigration issued by President Trump's Executive Order last Friday. This ban runs counter to all evidence, given that no refugees from any of the targeted countries have ever killed Americans on U.S. soil. It is also a moral outrage, and violates not only our constitution but our values as a nation of immigrants. I urge the congressman to stand up against President Trump and his Republican colleagues and insist that this ban be repealed.
 
 Write
 =====
